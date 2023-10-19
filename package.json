@@ -1,0 +1,16 @@
+{
+  "name": "week-3-project",
+  "version": "1.0.0",
+  "description": "Coding Steps: Create a new website using HTML and Bootstrap. The website must include the following: At least 2 pages. A Bootstrap navbar, table, and form. Bootstrap grid used throughout to format elements Elements should stack vertically when the window is small",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "jquery": "^3.7.1"
+  }
+}
