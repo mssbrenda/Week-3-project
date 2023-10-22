@@ -1,8 +1,33 @@
-
-
 div {
   border-style: solid;
   border-color: black;
   padding: 5px;
-  margin: 5px;
+  margin: 20px;
+}
+
+
+nav {
+  navbar: bg-dark border-bottom border-body" data-bs-theme=" dark"
+
+}
+
+
+body {
+  background-image: url("https://img.peapix.com/b7221e6d4d25409eaf84bf48a7adc3c1_480.jpg");
+  background-repeat: no-reeat;
+  background-size: cover;
+}
+
+p {
+  color: rgb(242, 221, 221);
+  font-size: medium;
+}
+
+form {
+  font-weight: bold;
+
+}
+
+h1 {
+  color: rgb(216, 96, 160);
 }
